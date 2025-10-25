@@ -38,9 +38,9 @@ export default function HowItWorks() {
               <div className="w-20 h-20 bg-gradient-to-r from-pink-500 to-pink-600 rounded-full flex items-center justify-center mx-auto mb-6 text-white text-3xl font-bold">
                 3
               </div>
-              <h3 className="text-2xl font-bold mb-4">Get Hired</h3>
+              <h3 className="text-2xl font-bold mb-4">Apply Effortlessly</h3>
               <p className="text-gray-600">
-                Apply directly from the app. Track your applications. Land your dream job.
+                Get your tailored CV, cover letter, and intro email instantly. One-click copy. Apply anywhere in seconds.
               </p>
             </div>
           </div>
